@@ -35,7 +35,7 @@ Pre-requisite
     To run client, You just have to run it by hitting node client.js command.
 ```
 
-6. Run react app by
+6. Run client app by
 ```
     Make sure you are running client and server in separate command prompts.
     To test the functionality you have to first answer the questions from the client app.
