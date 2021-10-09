@@ -1,3 +1,4 @@
+// To send a message to server on interval.
 const requests = (connectionPool, interval) => {
   setInterval(() => {
     connectionPool.map(socket => {
